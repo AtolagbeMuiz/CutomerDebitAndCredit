@@ -1,0 +1,16 @@
+C:\Users\ATOLAGBE MUIZ_O\Desktop\C# Classes\CustomerDebitAndCredit\bin\Debug\net5.0\CustomerDebitAndCredit.exe
+C:\Users\ATOLAGBE MUIZ_O\Desktop\C# Classes\CustomerDebitAndCredit\bin\Debug\net5.0\CustomerDebitAndCredit.deps.json
+C:\Users\ATOLAGBE MUIZ_O\Desktop\C# Classes\CustomerDebitAndCredit\bin\Debug\net5.0\CustomerDebitAndCredit.runtimeconfig.json
+C:\Users\ATOLAGBE MUIZ_O\Desktop\C# Classes\CustomerDebitAndCredit\bin\Debug\net5.0\CustomerDebitAndCredit.runtimeconfig.dev.json
+C:\Users\ATOLAGBE MUIZ_O\Desktop\C# Classes\CustomerDebitAndCredit\bin\Debug\net5.0\CustomerDebitAndCredit.dll
+C:\Users\ATOLAGBE MUIZ_O\Desktop\C# Classes\CustomerDebitAndCredit\bin\Debug\net5.0\ref\CustomerDebitAndCredit.dll
+C:\Users\ATOLAGBE MUIZ_O\Desktop\C# Classes\CustomerDebitAndCredit\bin\Debug\net5.0\CustomerDebitAndCredit.pdb
+C:\Users\ATOLAGBE MUIZ_O\Desktop\C# Classes\CustomerDebitAndCredit\obj\Debug\net5.0\CustomerDebitAndCredit.csprojAssemblyReference.cache
+C:\Users\ATOLAGBE MUIZ_O\Desktop\C# Classes\CustomerDebitAndCredit\obj\Debug\net5.0\CustomerDebitAndCredit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ATOLAGBE MUIZ_O\Desktop\C# Classes\CustomerDebitAndCredit\obj\Debug\net5.0\CustomerDebitAndCredit.AssemblyInfoInputs.cache
+C:\Users\ATOLAGBE MUIZ_O\Desktop\C# Classes\CustomerDebitAndCredit\obj\Debug\net5.0\CustomerDebitAndCredit.AssemblyInfo.cs
+C:\Users\ATOLAGBE MUIZ_O\Desktop\C# Classes\CustomerDebitAndCredit\obj\Debug\net5.0\CustomerDebitAndCredit.csproj.CoreCompileInputs.cache
+C:\Users\ATOLAGBE MUIZ_O\Desktop\C# Classes\CustomerDebitAndCredit\obj\Debug\net5.0\CustomerDebitAndCredit.dll
+C:\Users\ATOLAGBE MUIZ_O\Desktop\C# Classes\CustomerDebitAndCredit\obj\Debug\net5.0\ref\CustomerDebitAndCredit.dll
+C:\Users\ATOLAGBE MUIZ_O\Desktop\C# Classes\CustomerDebitAndCredit\obj\Debug\net5.0\CustomerDebitAndCredit.pdb
+C:\Users\ATOLAGBE MUIZ_O\Desktop\C# Classes\CustomerDebitAndCredit\obj\Debug\net5.0\CustomerDebitAndCredit.genruntimeconfig.cache
